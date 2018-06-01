@@ -5,6 +5,10 @@ Historical Exchange Rate Conversion
 - App.js is split into 2 major Sections
   - One is on User Prompt asking user to submit fields
   - Other section is about retrieving Exchange Rate and doing the conversion for the request
+  
+KEEP IN MIND
+- The currency must entered in CAPS and codeword such as GBP, CAD, USD etc.
+- Only enter numerical value for amount, without any currency Symbol
 
 HOW TO RUN
 - Download rateApp.exe and run
