@@ -1,4 +1,4 @@
-# Foreign Exchange Rate API
+# Foreign Exchange Rate
 Historical Exchange Rate Conversion
 - The program runs based on asking User for Input with 4 prompts
 - App.js is the starting point of the program
