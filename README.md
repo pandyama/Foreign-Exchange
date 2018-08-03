@@ -7,7 +7,7 @@ Historical Exchange Rate Conversion
   - Other section is about retrieving Exchange Rate and doing the conversion for the request
   
 Back End
-- REST API
+- Open Source REST API
   - https://exchangeratesapi.io/
   
 IMPORTANT
