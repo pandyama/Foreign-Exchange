@@ -6,8 +6,9 @@ Historical Exchange Rate Conversion
   - One is on User Prompt asking user to submit fields
   - Other section is about retrieving Exchange Rate and doing the conversion for the request
   
-API Called
-- https://exchangeratesapi.io/
+Back End
+- Open Source REST API
+  - https://exchangeratesapi.io/
   
 IMPORTANT
 - The currency must entered in CAPS and codeword such as GBP, CAD, USD etc.
