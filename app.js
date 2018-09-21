@@ -43,8 +43,9 @@ rl.question('Please enter the date to do currency conversion for: Format (yyyy-d
 				convertCurrency = String(ans); //convertCurrency holds the value user gives, such as the final currency to convert to
 
 				//Below is the modified URL for the API Call where Date, Base Currency and Converted Currency variables are inserted
-				url = `https://exchangeratesapi.io/api/${date}?symbols=${baseCurrency},${convertCurrency}`;
+				url = `https://api.exchangeratesapi.io/api/${date}?symbols=${baseCurrency},${convertCurrency}`;
 				//console.log(convertCurrency);
+				//https://api.exchangeratesapi.io/latest HTTP/1.1
 
 
 				for(var i = 0; i < 3; i++){
